@@ -1,0 +1,6 @@
+The contract will be deployed at address 0x0250388dc20c716bc53950ef3233bc089d6b4f5d4b2e0a54fb9956f34303e070
+Contract deployment transaction: 0x070d72f01f1114f7f9123cc423f53bc4e3480886bfd6b686fa6f0e1381a24cb6
+
+## Contract deployed:
+
+0x0250388dc20c716bc53950ef3233bc089d6b4f5d4b2e0a54fb9956f34303e070
